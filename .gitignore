@@ -15,3 +15,7 @@ __pycache__/
 # Temporary files or benchmark resources
 animations/*
 tmp/*
+
+
+# custom
+.devcontainer/docker-compose.yml

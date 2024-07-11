@@ -1,0 +1,12 @@
+{
+	"name": "live_portrait",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "live_portrait",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "humao.rest-client",
+        "samge.vscode-samge-translate"
+    ]
+}
